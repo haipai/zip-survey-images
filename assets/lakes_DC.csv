@@ -1,38 +1,38 @@
-st2,GEOID,NAME,lake,lat,lon
-DC,11001,District of Columbia,Capitol Reflecting Pool,38.8897960135682,-77.0136392915229
-DC,11001,District of Columbia,Constitution Gardens Pond,38.8909748137807,-77.042676620564
-DC,11001,District of Columbia,Tidal Basin,38.8841178464334,-77.0390012478453
-DC,11001,District of Columbia,McMillan Reservoir,38.9248794045026,-77.0170098894457
-DC,11001,District of Columbia,Georgetown Reservoir,38.9125382242189,-77.0930864005194
-DC,11001,District of Columbia,Lock 3,38.9041040969435,-77.0593453046251
-DC,11001,District of Columbia,Lock 2,38.9040217321478,-77.0582875710344
-DC,11001,District of Columbia,Lock 1,38.9039440494796,-77.0574349359916
-DC,11001,District of Columbia,Lock 4,38.9041847106224,-77.0603324989449
-DC,11001,District of Columbia,Kingman Lake,38.8969663182447,-76.9650497083434
-DC,11001,District of Columbia,Southwest Duck Pond,38.8788441904714,-77.0193856268958
-DC,11001,District of Columbia,Canal Basin,38.8732710576967,-77.002029503011
-DC,11001,District of Columbia,Dupont Circle Fountain,38.9096472088589,-77.0434433117896
-DC,11001,District of Columbia,Bartholdi Fountain,38.8871330506408,-77.0126663053796
-DC,11001,District of Columbia,The Senate Garage Reflecting Pool,38.8943696036231,-77.0090629324908
-DC,11001,District of Columbia,Court of Neptune,38.8886889483277,-77.0057712935491
-DC,11001,District of Columbia,House East Fountain,38.8855665829954,-77.0082679629086
-DC,11001,District of Columbia,House West Fountain,38.8855641310562,-77.0098652319191
-DC,11001,District of Columbia,Oscar Straus Memorial Fountain,38.893841565216,-77.0316167816053
-DC,11001,District of Columbia,Puck Fountain,38.8893975205078,-77.0033047728601
-DC,11001,District of Columbia,Man and Expanding Universe Fountain,38.8941541887269,-77.0490010842476
-DC,11001,District of Columbia,Rainbow Pool,38.8894020051346,-77.040514714785
-DC,11001,District of Columbia,Fountain Four,38.87957883084,-77.0391892987613
-DC,11001,District of Columbia,Cogswell Temperance Fountain Memorial,38.8937978447357,-77.0216571692953
-DC,11001,District of Columbia,California Sea Lion,38.9290738800282,-77.0490918216744
-DC,11001,District of Columbia,Lily Pond,38.9309474388505,-77.0612856948503
-DC,11001,District of Columbia,The fountain at the National Gallery of Art Sculpture Garden,38.8912927459067,-77.0229370132541
-DC,11001,District of Columbia,First Ladies Water Garden,38.8881970677779,-77.0140129258608
-DC,11001,District of Columbia,Acanthus Fountain,38.8884335715025,-77.0237057412165
-DC,11001,District of Columbia,North Lawn Fountain,38.8983017936034,-77.0365467642301
-DC,11001,District of Columbia,South Lawn Fountain,38.8961090623826,-77.0365395426964
-DC,11001,District of Columbia,President's Park Fountain,38.8938563721296,-77.034253446753
-DC,11001,District of Columbia,Gray Seal,38.9296483554281,-77.0491832044483
-DC,11001,District of Columbia,Otter Pond,38.9301239939999,-77.0499813364696
-DC,11001,District of Columbia,Capitol Hill Fountain,38.8898104460574,-77.0101005726981
-DC,11001,District of Columbia,Washington Harbor Fountain,38.9015122443799,-77.0600793268037
-DC,11001,District of Columbia,Frog Pond,38.9294907063085,-77.0475328294097
+st2,GEOID,lake,lat,lon
+DC,11001,Capitol Reflecting Pool at District of Columbia county ,38.8897960135682,-77.0136392915229
+DC,11001,Constitution Gardens Pond at District of Columbia county ,38.8909748137807,-77.042676620564
+DC,11001,Tidal Basin at District of Columbia county ,38.8841178464334,-77.0390012478453
+DC,11001,McMillan Reservoir at District of Columbia county ,38.9248794045026,-77.0170098894457
+DC,11001,Georgetown Reservoir at District of Columbia county ,38.9125382242189,-77.0930864005194
+DC,11001,Lock 3 at District of Columbia county ,38.9041040969435,-77.0593453046251
+DC,11001,Lock 2 at District of Columbia county ,38.9040217321478,-77.0582875710344
+DC,11001,Lock 1 at District of Columbia county ,38.9039440494796,-77.0574349359916
+DC,11001,Lock 4 at District of Columbia county ,38.9041847106224,-77.0603324989449
+DC,11001,Kingman Lake at District of Columbia county ,38.8969663182447,-76.9650497083434
+DC,11001,Southwest Duck Pond at District of Columbia county ,38.8788441904714,-77.0193856268958
+DC,11001,Canal Basin at District of Columbia county ,38.8732710576967,-77.002029503011
+DC,11001,Dupont Circle Fountain at District of Columbia county ,38.9096472088589,-77.0434433117896
+DC,11001,Bartholdi Fountain at District of Columbia county ,38.8871330506408,-77.0126663053796
+DC,11001,The Senate Garage Reflecting Pool at District of Columbia county ,38.8943696036231,-77.0090629324908
+DC,11001,Court of Neptune at District of Columbia county ,38.8886889483277,-77.0057712935491
+DC,11001,House East Fountain at District of Columbia county ,38.8855665829954,-77.0082679629086
+DC,11001,House West Fountain at District of Columbia county ,38.8855641310562,-77.0098652319191
+DC,11001,Oscar Straus Memorial Fountain at District of Columbia county ,38.893841565216,-77.0316167816053
+DC,11001,Puck Fountain at District of Columbia county ,38.8893975205078,-77.0033047728601
+DC,11001,Man and Expanding Universe Fountain at District of Columbia county ,38.8941541887269,-77.0490010842476
+DC,11001,Rainbow Pool at District of Columbia county ,38.8894020051346,-77.040514714785
+DC,11001,Fountain Four at District of Columbia county ,38.87957883084,-77.0391892987613
+DC,11001,Cogswell Temperance Fountain Memorial at District of Columbia county ,38.8937978447357,-77.0216571692953
+DC,11001,California Sea Lion at District of Columbia county ,38.9290738800282,-77.0490918216744
+DC,11001,Lily Pond at District of Columbia county ,38.9309474388505,-77.0612856948503
+DC,11001,The fountain at the National Gallery of Art Sculpture Garden at District of Columbia county ,38.8912927459067,-77.0229370132541
+DC,11001,First Ladies Water Garden at District of Columbia county ,38.8881970677779,-77.0140129258608
+DC,11001,Acanthus Fountain at District of Columbia county ,38.8884335715025,-77.0237057412165
+DC,11001,North Lawn Fountain at District of Columbia county ,38.8983017936034,-77.0365467642301
+DC,11001,South Lawn Fountain at District of Columbia county ,38.8961090623826,-77.0365395426964
+DC,11001,President's Park Fountain at District of Columbia county ,38.8938563721296,-77.034253446753
+DC,11001,Gray Seal at District of Columbia county ,38.9296483554281,-77.0491832044483
+DC,11001,Otter Pond at District of Columbia county ,38.9301239939999,-77.0499813364696
+DC,11001,Capitol Hill Fountain at District of Columbia county ,38.8898104460574,-77.0101005726981
+DC,11001,Washington Harbor Fountain at District of Columbia county ,38.9015122443799,-77.0600793268037
+DC,11001,Frog Pond at District of Columbia county ,38.9294907063085,-77.0475328294097
