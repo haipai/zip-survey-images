@@ -61,7 +61,7 @@ HUC8,HUC4,Region,triplet1,triplet2,triplet3,triplet1last,triplet2last,triplet3la
 3100206,310,SE,3100206,3100205,3100204,0206,0205,0204,4,4,3,3,2,3,3,927.1,10642,2004.8,Florida,Florida,Florida
 3100207,310,SE,3100207,3100208,3100205,0207,0208,0205,4,4,4,3,2,3,3,1668.5,10642,4405.2,Florida,Florida,Florida
 3100208,310,SE,3100208,3100207,3100205,0208,0207,0205,4,4,4,3,2,3,3,2080.6,10642,4405.2,Florida,Florida,Florida
-3110101,311,SE,3110101,3110102,3110205,0101,0102,0205,2,2,3,3,1,3,2,1176.3,14114,4930.9,Florida,Florida,Florida and Georgia
+3110101,311,SE,3110101,3110102,3110205,0101,0102,0205,2,2,3,3,1,2,2,1176.3,14114,4930.9,Florida,Florida,Florida and Georgia
 3110102,311,SE,3110102,3110103,3110205,0102,0103,0205,3,3,3,3,1,1,2,2174.8,14114,4707.2,Florida,Florida and Georgia,Florida and Georgia
 3110103,311,SE,3110103,3110203,3110204,0103,0203,0204,3,3,3,3,1,1,2,952.6,14114,3352,Florida and Georgia,Florida and Georgia,Florida and Georgia
 3110201,311,SE,3110201,3110202,3110203,0201,0202,0203,3,3,3,3,1,1,2,2649.2,14114,5958,Florida and Georgia,Florida and Georgia,Florida and Georgia
@@ -86,15 +86,15 @@ HUC8,HUC4,Region,triplet1,triplet2,triplet3,triplet1last,triplet2last,triplet3la
 3130011,313,SE,3130011,3130013,3130012,0011,0013,0012,3,3,4,3,1,3,3,1110.7,20626.4,2979.9,Florida and Georgia,"Alabama, Florida, and Georgia","Alabama, Florida, and Georgia"
 3130013,313,SE,3130013,3130012,3130011,0013,0012,0011,4,4,3,3,2,3,3,576.5,20626.4,2979.9,Florida,"Alabama, Florida, and Georgia","Alabama, Florida, and Georgia"
 3140101,314,SE,3140101,3140102,3140203,0101,0102,0203,3,3,3,3,1,1,3,1615.4,15608.7,3947.4,Florida,Alabama and Florida,Alabama and Florida
-3140102,314,SE,3140102,3140103,3140104,0102,0103,0104,3,3,2,3,1,3,3,777.5,15608.7,3016.5,Florida,Alabama and Florida,Alabama and Florida
+3140102,314,SE,3140102,3140103,3140104,0102,0103,0104,3,3,2,3,1,2,3,777.5,15608.7,3016.5,Florida,Alabama and Florida,Alabama and Florida
 3140103,314,SE,3140103,3140104,3140105,0103,0104,0105,2,2,3,4,1,3,3,1374.4,15608.7,2946.7,Alabama and Florida,Alabama and Florida,Alabama and Florida
-3140104,314,SE,3140104,3140102,3140103,0104,0102,0103,3,3,3,2,1,3,3,864.6,15608.7,3016.5,Alabama and Florida,Alabama and Florida,Alabama and Florida
+3140104,314,SE,3140104,3140102,3140103,0104,0102,0103,3,3,3,2,1,2,3,864.6,15608.7,3016.5,Alabama and Florida,Alabama and Florida,Alabama and Florida
 3140105,314,SE,3140105,3140106,3140107,0105,0106,0107,4,4,3,4,2,3,3,707.7,15608.7,2078.8,Florida,Alabama and Florida,Alabama and Florida
 3140106,314,SE,3140106,3140107,3140305,0106,0107,0305,3,3,4,3,1,3,3,920.4,15608.7,2130.5,Alabama and Florida,Alabama and Florida,Alabama and Florida
 3140107,314,SE,3140107,3140106,3140305,0107,0106,0305,4,4,3,3,2,3,3,450.7,15608.7,2130.5,Alabama and Florida,Alabama and Florida,Alabama and Florida
-3140201,314,SE,3140201,3140202,3140203,0201,0202,0203,2,2,3,3,1,3,3,1543.4,15608.7,4653.1,Alabama,Alabama and Florida,Alabama and Florida
-3140202,314,SE,3140202,3140201,3140301,0202,0201,0301,3,3,2,3,1,3,3,1555.2,15608.7,3920.7,Alabama and Florida,Alabama and Florida,Alabama and Florida
-3140203,314,SE,3140203,3140201,3140202,0203,0201,0202,3,3,2,3,1,3,3,1554.5,15608.7,4653.1,Alabama and Florida,Alabama and Florida,Alabama and Florida
+3140201,314,SE,3140201,3140202,3140203,0201,0202,0203,2,2,3,3,1,2,3,1543.4,15608.7,4653.1,Alabama,Alabama and Florida,Alabama and Florida
+3140202,314,SE,3140202,3140201,3140301,0202,0201,0301,3,3,2,3,1,2,3,1555.2,15608.7,3920.7,Alabama and Florida,Alabama and Florida,Alabama and Florida
+3140203,314,SE,3140203,3140201,3140202,0203,0201,0202,3,3,2,3,1,2,3,1554.5,15608.7,4653.1,Alabama and Florida,Alabama and Florida,Alabama and Florida
 3140301,314,SE,3140301,3140303,3140302,0301,0303,0302,3,3,5,3,1,3,3,822.1,15608.7,2471.7,Alabama,Alabama,Alabama and Florida
 3140302,314,SE,3140302,3140303,3140301,0302,0303,0301,3,3,5,3,1,3,3,600.2,15608.7,2471.7,Alabama,Alabama,Alabama and Florida
 3140303,314,SE,3140303,3140302,3140304,0303,0302,0304,5,5,3,3,3,3,3,1049.4,15608.7,2663.7,Alabama,Alabama and Florida,Alabama and Florida
@@ -174,10 +174,10 @@ HUC8,HUC4,Region,triplet1,triplet2,triplet3,triplet1last,triplet2last,triplet3la
 1090003,109,NE,1090003,1090004,1090005,0003,0004,0005,5,5,5,4,3,3,3,474.3,7405.4,2505.4,Massachusetts and Rhode Island,"Connecticut, Massachusetts, and Rhode Island","Connecticut, Massachusetts, and Rhode Island"
 1090004,109,NE,1090004,1090001,1090003,0004,0001,0003,5,5,4,5,3,3,3,1483.9,7405.4,3451.5,Massachusetts and Rhode Island,Massachusetts and Rhode Island,"Connecticut, Massachusetts, and Rhode Island"
 1090005,109,NE,1090005,1090003,1090004,0005,0003,0004,4,4,5,5,2,3,3,547.2,7405.4,2505.4,Connecticut and Rhode Island,"Connecticut, Massachusetts, and Rhode Island","Connecticut, Massachusetts, and Rhode Island"
-2020001,202,NE,2020001,2020002,2020003,0001,0002,0003,2,2,2,3,1,3,2,1663.8,12665,4624.4,New York,"Massachusetts, New York, and Vermont","Massachusetts, New Jersey, New York, and Vermont"
-2020002,202,NE,2020002,2020001,2020004,0002,0001,0004,2,2,2,3,1,3,2,1054.7,12665,5269.5,New York,New York,"Massachusetts, New Jersey, New York, and Vermont"
-2020003,202,NE,2020003,2020002,2020001,0003,0002,0001,3,3,2,2,1,3,2,1905.9,12665,4624.4,"Massachusetts, New York, and Vermont","Massachusetts, New York, and Vermont","Massachusetts, New Jersey, New York, and Vermont"
-2020004,202,NE,2020004,2020002,2020005,0004,0002,0005,3,3,2,3,1,3,2,2551,12665,4533.8,New York,New York,"Massachusetts, New Jersey, New York, and Vermont"
+2020001,202,NE,2020001,2020002,2020003,0001,0002,0003,2,2,2,3,1,2,2,1663.8,12665,4624.4,New York,"Massachusetts, New York, and Vermont","Massachusetts, New Jersey, New York, and Vermont"
+2020002,202,NE,2020002,2020001,2020004,0002,0001,0004,2,2,2,3,1,2,2,1054.7,12665,5269.5,New York,New York,"Massachusetts, New Jersey, New York, and Vermont"
+2020003,202,NE,2020003,2020002,2020001,0003,0002,0001,3,3,2,2,1,2,2,1905.9,12665,4624.4,"Massachusetts, New York, and Vermont","Massachusetts, New York, and Vermont","Massachusetts, New Jersey, New York, and Vermont"
+2020004,202,NE,2020004,2020002,2020005,0004,0002,0005,3,3,2,3,1,2,2,2551,12665,4533.8,New York,New York,"Massachusetts, New Jersey, New York, and Vermont"
 2020005,202,NE,2020005,2020004,2020006,0005,0004,0006,3,3,3,3,1,1,2,928.1,12665,5908.4,New York,Massachusetts and New York,"Massachusetts, New Jersey, New York, and Vermont"
 2020006,202,NE,2020006,2020003,2020008,0006,0003,0008,3,3,3,3,1,1,2,2429.3,12665,5279.1,Massachusetts and New York,"Massachusetts, New York, and Vermont","Massachusetts, New Jersey, New York, and Vermont"
 2020008,202,NE,2020008,2020006,2020007,0008,0006,0007,3,3,3,3,1,1,2,943.9,12665,4561.5,New York,"Massachusetts, New Jersey, and New York","Massachusetts, New Jersey, New York, and Vermont"
@@ -194,19 +194,19 @@ HUC8,HUC4,Region,triplet1,triplet2,triplet3,triplet1last,triplet2last,triplet3la
 4150304,415,NE,4150304,4150302,4150305,0304,0302,0305,3,3,3,3,1,1,3,640.7,33773.8,2950.1,New York,New York,"Maine, New Hampshire, New York, Vermont, and Canada"
 4150305,415,NE,4150305,4150306,4150304,0305,0306,0304,3,3,3,3,1,1,3,1259.3,33773.8,2754.3,New York,New York,"Maine, New Hampshire, New York, Vermont, and Canada"
 4150306,415,NE,4150306,4150307,4150305,0306,0307,0305,3,3,3,3,1,1,3,854.3,33773.8,2526.2,New York,New York and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
-4150307,415,NE,4150307,4150306,4150308,0307,0306,0308,3,3,3,2,1,3,3,412.6,33773.8,2417.5,New York and Canada,New York and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
-4150308,415,NE,4150308,4150307,4150310,0308,0307,0310,2,2,3,3,1,3,3,1150.6,33773.8,2942.3,New York and Canada,New York and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
+4150307,415,NE,4150307,4150306,4150308,0307,0306,0308,3,3,3,2,1,2,3,412.6,33773.8,2417.5,New York and Canada,New York and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
+4150308,415,NE,4150308,4150307,4150310,0308,0307,0310,2,2,3,3,1,2,3,1150.6,33773.8,2942.3,New York and Canada,New York and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
 4150309,415,NE,4150309,4150102,4150303,0309,0102,0303,3,3,3,4,1,3,3,1470.3,33773.8,2350.3,New York and Canada,New York and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
-4150310,415,NE,4150310,4150308,4150307,0310,0308,0307,3,3,2,3,1,3,3,1379.1,33773.8,2942.3,New York and Canada,New York and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
+4150310,415,NE,4150310,4150308,4150307,0310,0308,0307,3,3,2,3,1,2,3,1379.1,33773.8,2942.3,New York and Canada,New York and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
 4150401,415,NE,4150401,4150402,4150408,0401,0402,0408,3,3,3,3,1,1,3,687.4,33773.8,4432.7,New York and Vermont,"New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
 4150402,415,NE,4150402,4150403,4150408,0402,0403,0408,3,3,3,3,1,1,3,943.2,33773.8,4808.5,Vermont,"New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
 4150403,415,NE,4150403,4150405,4150407,0403,0405,0407,3,3,6,3,1,3,3,1063.2,33773.8,2640,Vermont,Vermont and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
-4150404,415,NE,4150404,4150406,4150408,0404,0406,0408,2,2,2,3,1,3,3,514.9,33773.8,3930.2,New York,"New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
+4150404,415,NE,4150404,4150406,4150408,0404,0406,0408,2,2,2,3,1,2,3,514.9,33773.8,3930.2,New York,"New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
 4150405,415,NE,4150405,4150403,4150407,0405,0403,0407,6,6,3,3,3,3,3,721.3,33773.8,2640,Vermont,Vermont and Canada,"Maine, New Hampshire, New York, Vermont, and Canada"
-4150406,415,NE,4150406,4150404,4150408,0406,0404,0408,2,2,2,3,1,3,3,613.2,33773.8,3930.2,New York,"New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
+4150406,415,NE,4150406,4150404,4150408,0406,0404,0408,2,2,2,3,1,2,3,613.2,33773.8,3930.2,New York,"New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
 4150407,415,NE,4150407,4150405,4150408,0407,0405,0408,3,3,6,3,1,3,3,855.5,33773.8,4378.9,Vermont and Canada,"New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
-4150408,415,NE,4150408,4150406,4150409,0408,0406,0409,3,3,2,2,1,3,3,2802.1,33773.8,4401.3,"New York, Vermont, and Canada","New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
-4150409,415,NE,4150409,4150406,4150408,0409,0406,0408,2,2,2,3,1,3,3,986,33773.8,4401.3,"New York, Vermont, and Canada","New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
+4150408,415,NE,4150408,4150406,4150409,0408,0406,0409,3,3,2,2,1,2,3,2802.1,33773.8,4401.3,"New York, Vermont, and Canada","New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
+4150409,415,NE,4150409,4150406,4150408,0409,0406,0408,2,2,2,3,1,2,3,986,33773.8,4401.3,"New York, Vermont, and Canada","New York, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
 4150500,415,NE,4150500,4150407,4150600,0500,0407,0600,3,3,3,3,1,1,3,3085.7,33773.8,6530.8,"Maine, New Hampshire, Vermont, and Canada","Maine, New Hampshire, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
 4150600,415,NE,4150600,4150407,4150500,0600,0407,0500,3,3,3,3,1,1,3,2589.6,33773.8,6530.8,"Maine, New Hampshire, Vermont, and Canada","Maine, New Hampshire, Vermont, and Canada","Maine, New Hampshire, New York, Vermont, and Canada"
 10020001,1002,NW,10020001,10020002,10020003,0001,0002,0003,5,5,6,3,3,3,3,2314.1,14035,4782.2,Idaho and Montana,Idaho and Montana,"Idaho, Montana, and Wyoming"
@@ -217,11 +217,11 @@ HUC8,HUC4,Region,triplet1,triplet2,triplet3,triplet1last,triplet2last,triplet3la
 10020007,1002,NW,10020007,10020006,10020005,0007,0006,0005,4,4,4,3,2,3,3,2555.8,14035,4614.6,"Idaho, Montana, and Wyoming","Idaho, Montana, and Wyoming","Idaho, Montana, and Wyoming"
 10020006,1002,NW,10020006,10020005,10020004,0006,0005,0004,4,4,3,3,2,3,3,758.9,14035,4849.7,Montana,"Idaho, Montana, and Wyoming","Idaho, Montana, and Wyoming"
 10020008,1002,NW,10020008,10020007,10020003,0008,0007,0003,4,4,4,3,2,3,3,1847.4,14035,5369,Montana and Wyoming,"Idaho, Montana, and Wyoming","Idaho, Montana, and Wyoming"
-17010101,1701,NW,17010101,17010102,17010103,0101,0102,0103,3,3,3,2,1,3,3,3682.3,44234.8,5316.8,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
-17010102,1701,NW,17010102,17010101,17010103,0102,0101,0103,3,3,3,2,1,3,3,842.8,44234.8,5316.8,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
-17010103,1701,NW,17010103,17010102,17010101,0103,0102,0101,2,2,3,3,1,3,3,791.7,44234.8,5316.8,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
-17010105,1701,NW,17010105,17010103,17010104,0105,0103,0104,2,2,2,3,1,3,3,784.4,44234.8,5321.3,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
-17010104,1701,NW,17010104,17010103,17010105,0104,0103,0105,3,3,2,2,1,3,3,3745.2,44234.8,5321.3,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
+17010101,1701,NW,17010101,17010102,17010103,0101,0102,0103,3,3,3,2,1,2,3,3682.3,44234.8,5316.8,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
+17010102,1701,NW,17010102,17010101,17010103,0102,0101,0103,3,3,3,2,1,2,3,842.8,44234.8,5316.8,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
+17010103,1701,NW,17010103,17010102,17010101,0103,0102,0101,2,2,3,3,1,2,3,791.7,44234.8,5316.8,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
+17010105,1701,NW,17010105,17010103,17010104,0105,0103,0104,2,2,2,3,1,2,3,784.4,44234.8,5321.3,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
+17010104,1701,NW,17010104,17010103,17010105,0104,0103,0105,3,3,2,2,1,2,3,3745.2,44234.8,5321.3,"Idaho, Montana, and Canada","Idaho, Montana, and Canada","Idaho, Montana, Washington, and Canada"
 17010202,1701,NW,17010202,17010203,17010205,0202,0203,0205,3,3,4,3,1,3,3,1819.6,44234.8,6990.2,Montana,Idaho and Montana,"Idaho, Montana, Washington, and Canada"
 17010203,1701,NW,17010203,17010202,17010209,0203,0202,0209,4,4,3,3,2,3,3,2312.8,44234.8,5808.3,Montana,Montana,"Idaho, Montana, Washington, and Canada"
 17010209,1701,NW,17010209,17010202,17010203,0209,0202,0203,3,3,3,4,1,3,3,1675.9,44234.8,5808.3,Montana,Montana,"Idaho, Montana, Washington, and Canada"
@@ -232,9 +232,9 @@ HUC8,HUC4,Region,triplet1,triplet2,triplet3,triplet1last,triplet2last,triplet3la
 17010212,1701,NW,17010212,17010208,17010211,0212,0208,0211,4,4,3,5,2,3,3,2008.8,44234.8,3928.7,Montana,Montana,"Idaho, Montana, Washington, and Canada"
 17010211,1701,NW,17010211,17010208,17010212,0211,0208,0212,4,4,3,5,2,3,3,729,44234.8,3928.7,Montana,Montana,"Idaho, Montana, Washington, and Canada"
 17010213,1701,NW,17010213,17010204,17010212,0213,0204,0212,3,3,3,4,1,3,3,2336.6,44234.8,6330,Idaho and Montana,Idaho and Montana,"Idaho, Montana, Washington, and Canada"
-17010214,1701,NW,17010214,17010215,17010216,0214,0215,0216,3,3,2,3,1,3,3,1212.8,44234.8,3828.1,Idaho and Washington,"Idaho, Washington, and Canada","Idaho, Montana, Washington, and Canada"
-17010215,1701,NW,17010215,17010216,17010214,0215,0216,0214,2,2,3,3,1,3,3,981.2,44234.8,3828.1,"Idaho, Washington, and Canada","Idaho, Washington, and Canada","Idaho, Montana, Washington, and Canada"
-17010216,1701,NW,17010216,17010214,17010215,0216,0214,0215,3,3,3,2,1,3,3,1634.1,44234.8,3828.1,"Idaho, Washington, and Canada","Idaho, Washington, and Canada","Idaho, Montana, Washington, and Canada"
+17010214,1701,NW,17010214,17010215,17010216,0214,0215,0216,3,3,2,3,1,2,3,1212.8,44234.8,3828.1,Idaho and Washington,"Idaho, Washington, and Canada","Idaho, Montana, Washington, and Canada"
+17010215,1701,NW,17010215,17010216,17010214,0215,0216,0214,2,2,3,3,1,2,3,981.2,44234.8,3828.1,"Idaho, Washington, and Canada","Idaho, Washington, and Canada","Idaho, Montana, Washington, and Canada"
+17010216,1701,NW,17010216,17010214,17010215,0216,0214,0215,3,3,3,2,1,2,3,1634.1,44234.8,3828.1,"Idaho, Washington, and Canada","Idaho, Washington, and Canada","Idaho, Montana, Washington, and Canada"
 17010301,1701,NW,17010301,17010302,17010303,0301,0302,0303,3,3,3,3,1,1,3,896.5,44234.8,1854.7,Idaho and Montana,"Idaho, Montana, and Washington","Idaho, Montana, Washington, and Canada"
 17010302,1701,NW,17010302,17010301,17010303,0302,0301,0303,3,3,3,3,1,1,3,299,44234.8,1854.7,Idaho and Montana,"Idaho, Montana, and Washington","Idaho, Montana, Washington, and Canada"
 17010303,1701,NW,17010303,17010301,17010305,0303,0301,0305,3,3,3,3,1,1,3,659.2,44234.8,2143.8,Idaho and Washington,"Idaho, Montana, and Washington","Idaho, Montana, Washington, and Canada"
